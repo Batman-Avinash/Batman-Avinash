@@ -5,7 +5,7 @@
 <img src="https://img.icons8.com/cute-clipart/64/000000/batman-emoji.png"/>
 
 
-- 🔭 I’m currently working with django
-- 🌱 I’m currently learning Vue.js
+- 🔭 I’m currently working on django
+- 🌱 And have figured out vuejs
 
 - 😄 Pronouns: he/him
